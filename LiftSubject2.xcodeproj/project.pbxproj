@@ -14,6 +14,7 @@
 		7E0716912A4734340057A25C /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E0716902A4734340057A25C /* ImagePickerView.swift */; };
 		7E4E3EAA2A500B2900BD9465 /* BackgroundEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4E3EA92A500B2900BD9465 /* BackgroundEffectView.swift */; };
 		7E4E3EAC2A50378E00BD9465 /* UIImage+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4E3EAB2A50378E00BD9465 /* UIImage+.swift */; };
+		7EAE2CEC2A52563C00A594C7 /* BackgroundEffectViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EAE2CEB2A52563C00A594C7 /* BackgroundEffectViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		7E0716902A4734340057A25C /* ImagePickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		7E4E3EA92A500B2900BD9465 /* BackgroundEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundEffectView.swift; sourceTree = "<group>"; };
 		7E4E3EAB2A50378E00BD9465 /* UIImage+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+.swift"; sourceTree = "<group>"; };
+		7EAE2CEB2A52563C00A594C7 /* BackgroundEffectViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundEffectViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				7E0716902A4734340057A25C /* ImagePickerView.swift */,
 				7E0716842A4734030057A25C /* ContentView.swift */,
 				7E4E3EA92A500B2900BD9465 /* BackgroundEffectView.swift */,
+				7EAE2CEB2A52563C00A594C7 /* BackgroundEffectViewModel.swift */,
 				7E4E3EAB2A50378E00BD9465 /* UIImage+.swift */,
 				7E0716862A4734040057A25C /* Assets.xcassets */,
 				7E0716882A4734040057A25C /* Preview Content */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7E4E3EAC2A50378E00BD9465 /* UIImage+.swift in Sources */,
+				7EAE2CEC2A52563C00A594C7 /* BackgroundEffectViewModel.swift in Sources */,
 				7E0716852A4734030057A25C /* ContentView.swift in Sources */,
 				7E4E3EAA2A500B2900BD9465 /* BackgroundEffectView.swift in Sources */,
 				7E0716912A4734340057A25C /* ImagePickerView.swift in Sources */,
